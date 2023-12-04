@@ -11,7 +11,6 @@ O modelo lógico e conceitual do banco de dados pode ser encontrado no repositó
 ## Configuração
 
 1. Clone o repositório: `git clone https://github.com/edersommcm/dados-resilia.git`
-2. Execute os scripts SQL em [scripts.sql](scripts.sql) para criar o banco de dados e tabela.
 
 ## Uso
 
